@@ -4,7 +4,8 @@ body{
 }
 table {
 	width: 70%;
-	
+	border: 3px solid #000000;
+    	border-radius: 20px;
 }
 #vb {
     display: none;
