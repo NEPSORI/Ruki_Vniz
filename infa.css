@@ -1,0 +1,43 @@
+body{
+	background:url("fon3.jpg");
+	background-size: cover;
+}
+table {
+	width: 70%;
+
+}
+#vb {
+    display: none;
+}
+
+    #vb:target {display: block;}
+#ccp {
+    display: none;
+    table {
+    	border: 3px solid #000000;
+    	border-radius: 20px;
+	}
+}
+    #ccp:target {display: block;}
+#ger {
+    display: none;
+    table {
+    	border: 3px solid #000000;
+    	border-radius: 20px;
+	}
+}
+    #ger:target {display: block;}
+#jap {
+    display: none;
+    table {
+    	border: 3px solid #000000;
+    	border-radius: 20px;
+	}
+}
+    #jap:target {display: block;}
+
+.n{
+    	border: 3px solid #000000;
+    	border-radius: 20px;
+	}
+	vertical-align:top;
